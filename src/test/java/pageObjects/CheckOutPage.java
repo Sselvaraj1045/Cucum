@@ -44,6 +44,15 @@ public class CheckOutPage {
 	   System.out.println("hello selva");
 	   System.out.println("hello selva");
    }
+ 
+ public void Hello1() {
+	   
+	   System.out.println("hello selva");
+	   System.out.println("hello selva");
+	   System.out.println("hello selva");
+	   System.out.println("hello selva");
+ }
+	
 	
 
 }
