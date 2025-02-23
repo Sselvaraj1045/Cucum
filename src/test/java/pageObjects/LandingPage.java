@@ -57,5 +57,14 @@ public class LandingPage {
 		
 		return driver.getTitle();
 	}
+	
+	 public void Hello3() {
+		   
+		   System.out.println("hello selva");
+		   System.out.println("hello selva");
+		   System.out.println("hello selva");
+		   System.out.println("hello selva");
+	}
+	
 
 }
