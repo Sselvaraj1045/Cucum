@@ -36,6 +36,14 @@ public class CheckOutPage {
 		
 		return driver.findElement(placeOrder).isDisplayed();
 	}
+   
+   public void Hello() {
+	   
+	   System.out.println("hello selva");
+	   System.out.println("hello selva");
+	   System.out.println("hello selva");
+	   System.out.println("hello selva");
+   }
 	
 	
 
